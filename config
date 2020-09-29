@@ -1,0 +1,8 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+[remote "origin"]
+	url = https://github.com/terniaw/Lab-2-processes---CSCI-401.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
